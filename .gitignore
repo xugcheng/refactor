@@ -1,7 +1,5 @@
 *.class
-# project settings of eclipse
-.project .myumldata .mymetadata .classpath
-.settings/ .externalToolBuilders/ .myeclipse/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
